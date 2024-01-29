@@ -16,7 +16,7 @@ export const Heading = () => {
         Your ideas, documents and plans. Unified. Welcome to <span className="underline">Jotion</span>
       </h1>
       <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-        Jotion is the connected workspace <br /> where better, faster work happens."
+        Jotion is the connected workspace <br /> where better, faster work happens.
       </h3>
       {isLoading && (
         <div className="w-full flex items-center justify-center">
